@@ -1,4 +1,4 @@
 # meu-primeiro-teste
 primeiro teste do projeto curso
 
-editei o readme.md manualmente aqui. This file  was modiffied locally..
+This line was editted manually during conflict resolution.
